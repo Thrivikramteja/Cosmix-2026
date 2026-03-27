@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+numpy
+opencv-python
+tifffile
+pandas
+shapely
+scipy
+torch
+torchvision
+segmentation-models-pytorch
